@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Wow-Rider
 
 Rápida descrição do objetivo de fazer esse projeto
 
