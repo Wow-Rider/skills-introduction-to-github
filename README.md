@@ -2,7 +2,7 @@
 
 Configurar o ambiente  para codificação de ciência de dados
 
-| :placard: Vitrine.Dev |     |
+| :placard:  **SPACE JAM: UM NOVO LEGADO** |     |
 | -------------  | --- |
 | :sparkles: Nome        | **SPACE JAM: UM NOVO LEGADO**
 | :label: Tecnologias | Python, Jupyter, java e biblioteca Pandas   
